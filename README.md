@@ -1,14 +1,8 @@
-# Your Application Name
+# Spring JDBC Template
 
 ## Description
-This is a template for a Java application using Spring Boot and Maven.
+Spring boot application with JDBC Template
 
-##### Note: 
-* This is not a perfect Hexagonal Architecture implementation.
-* Perfect Hexagonal Architecture would have following modules:
-  * Domain - Business Logic
-  * Application - Sandwich between Domain and Infrastructure (Ports and Adapters)
-  * Infrastructure - Database, File System, Network, etc.
 
 ## Project setup
 ```
